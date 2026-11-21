@@ -2,23 +2,17 @@
  "v": 2,
  "courses": [
   {
-   "id": "aupflk1",
-   "grade": "기타",
+   "id": "deenzgr",
+   "grade": "중1",
    "title": "제작자 테스트",
    "sections": [
     {
-     "id": "hvns8v7",
-     "title": "1단원",
+     "id": "0ljfdse",
+     "title": "제작자 테스트",
      "videos": [
       {
-       "id": "q9s55ea",
-       "title": "1강 유리수",
-       "type": "link",
-       "ref": "https://youtu.be/_zVSOG0W9nI?si=n13qpk7gSVgj7r8t"
-      },
-      {
-       "id": "wj5huk3",
-       "title": "소수의 분류 beta",
+       "id": "ftt63gy",
+       "title": "제작자 테스트",
        "type": "link",
        "ref": "https://youtu.be/v-h6rNZnxrQ?si=0Q8x3tga2TX2m2Op"
       }
