@@ -1,0 +1,17 @@
+{
+ "v": 2,
+ "courses": [
+  {
+   "id": "aupflk1",
+   "grade": "기타",
+   "title": "제작자 테스트",
+   "sections": [
+    {
+     "id": "hvns8v7",
+     "title": "1단원",
+     "videos": []
+    }
+   ]
+  }
+ ]
+}
